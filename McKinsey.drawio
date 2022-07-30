@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T09:52:46.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ud7lGThF3x6S6Hh_A6o2" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T10:03:14.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="35YHYk-k_w7YGk9Tlu1t" version="20.2.0" type="github">
   <diagram id="vnCOriHGnDCL4UNyazhE" name="Page-1">
     <mxGraphModel dx="728" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,6 +70,27 @@
         </mxCell>
         <mxCell id="1zZ42_EuozQGmyYF9LsD-7" value="风格" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;定义问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;width=4;endSize=6;endWidth=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="679" as="sourcePoint" />
+            <mxPoint x="650" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结构化分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提出假设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;验证假设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="420" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zZ42_EuozQGmyYF9LsD-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="690" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
