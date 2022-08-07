@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T12:19:40.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="Nd-3t2OxSueJwaJHk4Tg" type="github"><diagram id="2t2FUPXbf76dP2hx0tFt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-07T12:36:45.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="r7-hyz4412uUrBzvt9Io" version="20.2.3" type="github">
+  <diagram id="2t2FUPXbf76dP2hx0tFt" name="Page-1">
+    <mxGraphModel dx="728" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-1" value="规则/结构&lt;br&gt;Structure" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-2" value="行为&lt;br&gt;Conduct" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-3" value="业绩&lt;br&gt;Performance" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-4" value="此行为的核心商业模式是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-5" value="主要玩家的管理战略是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGXMlj_aZO5jLS62vfqT-6" value="衡量业绩的标准是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
