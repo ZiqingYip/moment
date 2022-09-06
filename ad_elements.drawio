@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T02:10:42.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="tn6OxCjWgMNRZs7T7QD-" type="github"><diagram id="a5dxHMryOgr_69dS-i_M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T02:25:10.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6b0yhDYrXxYBTATgnMO1" version="20.2.8" type="github">
+  <diagram id="a5dxHMryOgr_69dS-i_M" name="Page-1">
+    <mxGraphModel dx="1298" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-1" value="用户体验" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-2" value="广告主ROI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-3" value="平台收益" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="470" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="438" y="340" as="sourcePoint" />
+            <mxPoint x="362" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-10" value="广告主、平台、用户&#xa;广告主：关注ROI，花了钱投入广告是否能带来预期收益&#xa;平台：拥有流量，关注流量变现收益能否最大化&#xa;用户：关注体验，广告是否足够精准、是否影响到了正常功能的使用？" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="530" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
