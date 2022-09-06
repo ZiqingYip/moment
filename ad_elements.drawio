@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T02:25:10.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6b0yhDYrXxYBTATgnMO1" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T02:25:37.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FmfWhWnmYg1jev6pkbZp" version="20.2.8" type="github">
   <diagram id="a5dxHMryOgr_69dS-i_M" name="Page-1">
     <mxGraphModel dx="1298" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="362" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbUbsW-9aeDrGkv0MqUq-10" value="广告主、平台、用户&#xa;广告主：关注ROI，花了钱投入广告是否能带来预期收益&#xa;平台：拥有流量，关注流量变现收益能否最大化&#xa;用户：关注体验，广告是否足够精准、是否影响到了正常功能的使用？" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tbUbsW-9aeDrGkv0MqUq-10" value="广告主、平台、用户&lt;br&gt;广告主：关注ROI，花了钱投放广告是否能带来预期收益&lt;br&gt;平台：拥有流量，关注流量变现收益能否最大化&lt;br&gt;用户：关注体验，广告是否足够精准、是否影响到了正常功能的使用？" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="530" height="100" as="geometry" />
         </mxCell>
       </root>
