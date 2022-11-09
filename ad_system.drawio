@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T06:19:42.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VrmSAAfrrJNc8or1cgjL" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T06:20:11.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZhwvT2J3aNfpMDXV_GiT" version="20.5.1" type="github">
   <diagram id="PQlHHl4Ataq9H4FQT5qu" name="Page-1">
     <mxGraphModel dx="1278" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="TKPUV4Qh9PTVbDVEtG0A-11" value="R 值预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349.56" y="750" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TKPUV4Qh9PTVbDVEtG0A-12" value="过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TKPUV4Qh9PTVbDVEtG0A-12" value="频控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249.56" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TKPUV4Qh9PTVbDVEtG0A-13" value="排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
