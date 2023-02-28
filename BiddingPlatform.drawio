@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T07:30:20.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pHJ08pabMdgyrxMJ24SY" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:34:09.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4VWUtYmYRdVFGR2zdQfT" version="20.8.23" type="github">
   <diagram id="KJzq4jkmHyjeCMCJz6uO" name="Page-1">
     <mxGraphModel dx="2270" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="6Swn5pRf29uwXJC_zlHn-3" value="&lt;b&gt;BidProxy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-560" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Swn5pRf29uwXJC_zlHn-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="6Swn5pRf29uwXJC_zlHn-1" target="6Swn5pRf29uwXJC_zlHn-3" edge="1">
+        <mxCell id="6Swn5pRf29uwXJC_zlHn-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;width=24;endSize=8.67;endWidth=46;" parent="1" source="6Swn5pRf29uwXJC_zlHn-1" target="6Swn5pRf29uwXJC_zlHn-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-560" y="400" as="sourcePoint" />
             <mxPoint x="-510" y="350" as="targetPoint" />
@@ -490,17 +490,6 @@
         <mxCell id="Qie4Jvxz4LchooNuVRA_-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Flink&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-440" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Qie4Jvxz4LchooNuVRA_-5" target="Qie4Jvxz4LchooNuVRA_-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="2360" as="sourcePoint" />
-            <mxPoint x="-390" y="2310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-8" value="kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qie4Jvxz4LchooNuVRA_-7">
-          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qie4Jvxz4LchooNuVRA_-9" value="BidServer_Shard1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-60" y="2132.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -619,17 +608,6 @@
         <mxCell id="Qie4Jvxz4LchooNuVRA_-37" value="&lt;b&gt;&lt;font color=&quot;#330000&quot;&gt;Flink&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-450" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Qie4Jvxz4LchooNuVRA_-36" target="Qie4Jvxz4LchooNuVRA_-37">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-450" y="2890" as="sourcePoint" />
-            <mxPoint x="-400" y="2840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-39" value="kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qie4Jvxz4LchooNuVRA_-38">
-          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qie4Jvxz4LchooNuVRA_-40" value="BidServer_Host1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-70" y="2662.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -699,6 +677,28 @@
         </mxCell>
         <mxCell id="Qie4Jvxz4LchooNuVRA_-64" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;V3 仍然存在的问题：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 不具备快速扩容的能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 机器资源存在浪费现象&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-680" y="2440" width="188" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;width=24;endSize=8.67;endWidth=46;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="2202" as="sourcePoint" />
+            <mxPoint x="-440" y="2202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-67" value="kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qie4Jvxz4LchooNuVRA_-66">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;width=24;endSize=8.67;endWidth=46;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="2732" as="sourcePoint" />
+            <mxPoint x="-450" y="2732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-69" value="kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qie4Jvxz4LchooNuVRA_-68">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
