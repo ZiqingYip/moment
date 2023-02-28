@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T07:34:09.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4VWUtYmYRdVFGR2zdQfT" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:43:41.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wyRLTlpk6ec0He56yUa2" version="20.8.23" type="github">
   <diagram id="KJzq4jkmHyjeCMCJz6uO" name="Page-1">
-    <mxGraphModel dx="2270" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,7 +608,7 @@
         <mxCell id="Qie4Jvxz4LchooNuVRA_-37" value="&lt;b&gt;&lt;font color=&quot;#330000&quot;&gt;Flink&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-450" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-40" value="BidServer_Host1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-40" value="&lt;font color=&quot;#ff0000&quot;&gt;BidServer_Host1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-70" y="2662.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qie4Jvxz4LchooNuVRA_-41" value="&lt;b&gt;BidFront&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -626,10 +626,10 @@
         <mxCell id="Qie4Jvxz4LchooNuVRA_-46" value="&lt;font color=&quot;#000000&quot;&gt;redis&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;fontSize=14;fontColor=#808080;align=center;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="2600" width="111" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-47" value="BidServer_Host2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-47" value="&lt;font color=&quot;#ff0000&quot;&gt;BidServer_Host2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-50" y="2712.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qie4Jvxz4LchooNuVRA_-48" value="BidServer_HostN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-48" value="&lt;font color=&quot;#ff0000&quot;&gt;BidServer_HostN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-30" y="2762.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qie4Jvxz4LchooNuVRA_-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;width=18;endSize=11;endWidth=34;" edge="1" parent="1" source="Qie4Jvxz4LchooNuVRA_-37" target="Qie4Jvxz4LchooNuVRA_-35">
@@ -699,6 +699,9 @@
           <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qie4Jvxz4LchooNuVRA_-70" value="&lt;font color=&quot;#330000&quot;&gt;&lt;b&gt;返朴归真：工程稳定性和可扩展性的解决思路&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="10" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
