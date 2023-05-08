@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T01:18:54.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZRLI8m-nFZJMQyQ7lTU1" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T01:48:44.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lT2lVxgPYRMgbYdBclN9" version="21.2.9" type="github">
   <diagram name="Page-1" id="8XETg-70EDmgeIA6E9z_">
     <mxGraphModel dx="968" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,6 +192,51 @@
         </mxCell>
         <mxCell id="nfXhNy4vDQ093EoNlY_l-10" value="&lt;font color=&quot;#808080&quot;&gt;TCP连接2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="467" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="nfXhNy4vDQ093EoNlY_l-13" target="nfXhNy4vDQ093EoNlY_l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-13" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="91" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-14" value="虚拟网卡&lt;br&gt;（VPN客户端建立）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="331" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-15" value="IP包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234.5" y="1650" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="nfXhNy4vDQ093EoNlY_l-14" target="nfXhNy4vDQ093EoNlY_l-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-18" value="虚拟网卡&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（VPN服务端建立）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="571" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-19" value="VPN 协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="481" y="1650" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="nfXhNy4vDQ093EoNlY_l-22" source="nfXhNy4vDQ093EoNlY_l-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="691" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-22" value="真正网卡&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（VPN服务端）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="811" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-23" value="IP包转发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="1650" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="nfXhNy4vDQ093EoNlY_l-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="931" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-25" value="目标服务器" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1051" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXhNy4vDQ093EoNlY_l-26" value="IP包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="961" y="1650" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
