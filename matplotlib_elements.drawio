@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:51:13.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="Z9GmnpQ2moXRzG1sUGnd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:01:05.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ND04Ehd2NAiH4jfwCql-" version="21.6.6" type="github">
   <diagram name="Page-1" id="kujngKRCwbrZxT3DUWH8">
-    <mxGraphModel>
+    <mxGraphModel dx="967" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-2" value="画板 (canvas)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="340" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-4" value="画布 (figure)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-6" value="绘图区 (axes)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-7" value="坐标轴 (axis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1m4RQ7vYJOjgaZJ0cFAP-8" value="图例 (legend)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
