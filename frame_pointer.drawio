@@ -13,7 +13,7 @@
         <mxCell id="jagAryBDiPTuuUjGZd-C-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="jagAryBDiPTuuUjGZd-C-4" target="jagAryBDiPTuuUjGZd-C-24">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="jagAryBDiPTuuUjGZd-C-4" target="jagAryBDiPTuuUjGZd-C-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="120" as="targetPoint" />
             <Array as="points">
@@ -50,28 +50,28 @@
         <mxCell id="jagAryBDiPTuuUjGZd-C-6" value="上一栈帧的 RBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-7" value="返回地址 (bar)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-7" value="&lt;font color=&quot;#808080&quot;&gt;返回地址 (bar)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-8" value="返回地址 (foo)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-8" value="&lt;font color=&quot;#808080&quot;&gt;返回地址 (foo)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-12" value="main 函数的栈帧" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-12" value="&lt;font color=&quot;#808080&quot;&gt;main 函数的栈帧&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="285" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-13" value="foo 函数的栈帧" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-13" value="&lt;font color=&quot;#808080&quot;&gt;foo 函数的栈帧&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="465" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-14" value="bar 函数的栈帧" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-14" value="&lt;font color=&quot;#808080&quot;&gt;bar 函数的栈帧&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="645" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jagAryBDiPTuuUjGZd-C-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -80,20 +80,32 @@
         <mxCell id="jagAryBDiPTuuUjGZd-C-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="jagAryBDiPTuuUjGZd-C-17" target="jagAryBDiPTuuUjGZd-C-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-17" value="帧指针 RBP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-17" value="&lt;b&gt;帧指针 RBP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jagAryBDiPTuuUjGZd-C-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="jagAryBDiPTuuUjGZd-C-18" target="jagAryBDiPTuuUjGZd-C-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-18" value="栈指针 RSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-18" value="&lt;b&gt;栈指针 RSP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-24" value="更早的帧" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-24" value="&lt;font color=&quot;#808080&quot;&gt;更早的帧&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jagAryBDiPTuuUjGZd-C-26" value="&lt;b&gt;e.g., main -&amp;gt; foo -&amp;gt; bar&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jagAryBDiPTuuUjGZd-C-26" value="&lt;b&gt;&lt;font color=&quot;#808080&quot;&gt;e.g., main -&amp;gt; foo -&amp;gt; bar&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jagAryBDiPTuuUjGZd-C-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="40" as="sourcePoint" />
+            <mxPoint x="160" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jagAryBDiPTuuUjGZd-C-28" value="&lt;font color=&quot;#808080&quot;&gt;高地址&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jagAryBDiPTuuUjGZd-C-29" value="&lt;font color=&quot;#808080&quot;&gt;低地址&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
