@@ -70,6 +70,76 @@
         <mxCell id="C5Dbfe9ssZrPEk-CMW97-35" value="作用：在 local_host 上打开并监听 local_port ，然后将发到 local_port 的数据经过 ssh_server 转发到 target_host 上 target_port 中。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="710" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-37" value="Local Host" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-39" target="C5Dbfe9ssZrPEk-CMW97-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-39" value="SSH&lt;div&gt;Client&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-45" target="C5Dbfe9ssZrPEk-CMW97-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-45" value="SSH Tunnel" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-46" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SSH&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Server&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-47" value="Bastion/Gateway/Relay" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-49" value="listen on:&amp;nbsp;&lt;font color=&quot;#b95450&quot;&gt;remote_port&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="775" y="650" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-57" value="Target Host" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-58" value="&lt;div&gt;&lt;span style=&quot;color: rgb(185, 84, 80);&quot;&gt;target_port&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-36" target="C5Dbfe9ssZrPEk-CMW97-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="190" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-61" value="&lt;div data-hash=&quot;7440b1db4fdb8a5f12096d3cea0d4261&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot; class=&quot;section&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.5;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;margin-right:0pt&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span data-font-family=&quot;Monaco&quot; style=&quot;font-family: Monaco; font-weight: normal; font-style: normal; color: rgb(221, 74, 104); letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;ssh&lt;/span&gt;&lt;span data-font-family=&quot;Monaco&quot; style=&quot;font-family: Monaco; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); letter-spacing: 0pt; vertical-align: baseline;&quot;&gt; -R remote_port : target_host : target_port&amp;nbsp; user@ssh_server_host&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="760" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-63" target="C5Dbfe9ssZrPEk-CMW97-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="770" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-65" target="C5Dbfe9ssZrPEk-CMW97-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="C5Dbfe9ssZrPEk-CMW97-67" target="C5Dbfe9ssZrPEk-CMW97-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5Dbfe9ssZrPEk-CMW97-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="770" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
