@@ -1,56 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T06:29:26.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="MzDqZeIwaQPUZoBzvjLZ" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="0pZdRueqpjIPbJNmvLKp" name="Page-1">
-    <mxGraphModel dx="1278" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-1" value="过去一般时&lt;br&gt;did" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-1" value="过去一般时&lt;br&gt;did" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-2" value="现在一般时&lt;br&gt;do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-2" value="现在一般时&lt;br&gt;do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-3" value="将来一般时&lt;br&gt;will do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-3" value="将来一般时&lt;br&gt;will do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-4" value="过去进行时&lt;br&gt;was/were doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-4" value="过去进行时&lt;br&gt;was/were doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-5" value="现在进行时&lt;br&gt;am/is/are doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-5" value="现在进行时&lt;br&gt;am/is/are doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-6" value="将来进行时&lt;br&gt;will be doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-6" value="将来进行时&lt;br&gt;will be doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-7" value="过去完成时&lt;br&gt;had done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-7" value="过去完成时&lt;br&gt;had done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-8" value="现在完成时&lt;br&gt;have/has done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-8" value="现在完成时&lt;br&gt;have/has done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-9" value="将来完成时&lt;br&gt;will have done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-9" value="将来完成时&lt;br&gt;will have done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-10" value="过去完成进行时&lt;br&gt;had been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-10" value="过去完成进行时&lt;br&gt;had been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-11" value="现在完成进行时&lt;br&gt;have/has been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-11" value="现在完成进行时&lt;br&gt;have/has been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-12" value="将来完成进行时&lt;br&gt;will have been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-12" value="将来完成进行时&lt;br&gt;will have been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-13" value="过去将来一般时&lt;br&gt;would do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-13" value="过去将来一般时&lt;br&gt;would do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-14" value="过去将来进行时&lt;br&gt;would be doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-14" value="过去将来进行时&lt;br&gt;would be doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-15" value="过去将来完成时&lt;br&gt;would have done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-15" value="过去将来完成时&lt;br&gt;would have done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhujVhGRJXl4jnrtTXsW-16" value="过去将来完成进行时&lt;br&gt;would have been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="420" width="130" height="60" as="geometry" />
+        <mxCell id="BhujVhGRJXl4jnrtTXsW-16" value="过去将来完成进行时&lt;br&gt;would have been doing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-1" value="过去一般时&lt;br&gt;was/were done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-2" value="现在一般时&lt;br&gt;am/is/are done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-3" value="将来一般时&lt;br&gt;will be done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-4" value="过去进行时&lt;br&gt;was/were being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-5" value="现在进行时&lt;br&gt;am/is/are being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-6" value="将来进行时&lt;br&gt;will be being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-7" value="过去完成时&lt;br&gt;had been done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-8" value="现在完成时&lt;br&gt;have/has been done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-9" value="将来完成时&lt;br&gt;will have been done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-10" value="过去完成进行时&lt;br&gt;had been being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-11" value="现在完成进行时&lt;br&gt;have/has been being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-12" value="将来完成进行时&lt;br&gt;will have been being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-13" value="过去将来一般时&lt;br&gt;would be done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-14" value="过去将来进行时&lt;br&gt;would be being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-15" value="过去将来完成时&lt;br&gt;would have been done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-16" value="过去将来完成进行时&lt;br&gt;would have been being done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="820" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主动语态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="114" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="526" width="820" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pI8awM5LTUKcfb7v1uSt-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;被动语态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
